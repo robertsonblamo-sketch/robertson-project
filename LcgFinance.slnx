@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="LcgFinance.Data/LcgFinance.Data.csproj" />
+  <Project Path="LcgFinance.Models/LcgFinance.Models.csproj" />
+  <Project Path="LcgFinance.Web/LcgFinance.Web.csproj" />
+</Solution>
